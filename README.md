@@ -34,10 +34,10 @@ THEN a user is able to successfully create and delete reactions to thoughts and 
 
   ## Installation
 
-  Use the package manager [npm] to install install.
+  Use the package manager [npm] and enter:
 ```bash
 
-npm install install
+npm install
 
 # To run:
 node server.js
